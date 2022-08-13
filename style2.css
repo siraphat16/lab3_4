@@ -1,0 +1,7 @@
+table,td,tr{
+    border-style: solid;
+    border-width: 1px;
+}
+tr:hover{
+    background-color: aqua;
+}
